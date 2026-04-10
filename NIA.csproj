@@ -5,6 +5,16 @@
     <TargetFramework>net10.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+    <StartupObject>program</StartupObject>
   </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Partes-Nia\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="System.Management" Version="10.0.5" />
+    <PackageReference Include="System.Speech" Version="10.0.5" />
+  </ItemGroup>
 
 </Project>
