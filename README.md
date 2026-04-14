@@ -4,6 +4,6 @@ Nia
   pueda: realizar actividades, contestar a preguntas, interactuar con su entorno y asistir en todo lo que el usuario le pida.
 
 Requisitos 
-  .Net 8 sdk recomendado .Net 10 sdk
+  .Net 8 sdk recomendado .Net 10 sdk y sistema   windows 10 (recomendado) o windows 11 
 
 {Nino}  
