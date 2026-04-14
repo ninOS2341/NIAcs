@@ -1,9 +1,8 @@
 ﻿using System.Management;
 using System.Security.Cryptography.X509Certificates;
 /*
-  La variable busqueda se utiliza para buscar en la pc cualquier tipo de informacion
-  
- 
+  Las variables globales delaradas en este archivo son para que Nia sea conciente de 
+  con que cuenta a mano y que no. Solo para que lo tome en cuenta.  
  */
 
 /*
